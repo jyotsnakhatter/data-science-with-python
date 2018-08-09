@@ -9,6 +9,9 @@
  
  :moneybag:  :moneybag:  :moneybag:
 
+*****
+
+
 ### About the data:
 
 The United Nations Commodity Trade Statistics Database (UN Comtrade) complete trade records between countries and publishes it for free. We have fetched data from 1985 to 2016 which is ~1.2 Gb in size. Over 140 reporter countries provide the United Nations Statistics Division with their annual international trade statistics detailed by commodities and partner countries.
@@ -30,9 +33,13 @@ Features of the table:
 | 9 | Quantity      |
 | 10 | Category      |
 
+*****
+
 ### Aim for project:
  
 The aim/acceptance criteria for the project was to successfully analyse international assets data to give meaningful insights and also test models like- Bayesian, Feed-forward neural network, ANOVA and statistical hypothesis testing.
+
+*****
 
 ### Technologies:
 ```
@@ -40,6 +47,7 @@ python3
 ```
 :snake:
 
+*****
 
 :star2: :star2: :star2:
 ### Libraries used:
@@ -47,14 +55,22 @@ python3
 Pymc3, keras, numpy, pandas, scipy, matplotlib, seaborn, sklearn, plotly, squarify, 
 ```
 
+*****
+
 ### Authors
 
 1. Jyotsna Khatter
 2. Parth Gargava
 
+*****
+
+
 ### License
 
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+*****
 
 ### Acknowledgments:
 
