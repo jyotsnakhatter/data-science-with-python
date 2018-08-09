@@ -57,6 +57,13 @@ Pymc3, keras, numpy, pandas, scipy, matplotlib, seaborn, sklearn, plotly, squari
 
 *****
 
+### Types of analysis done
+```
+ANOVA, One T testing, Two T Testing, Principal Component Analysis, Neural Networks, Statistical Hypothesis testing, Visual Analysis
+```
+
+****
+
 ### Authors
 
 1. Jyotsna Khatter
