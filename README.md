@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ### Acknowledgments:
 
-Made with &#x1F34E; at Northeastern University
+Made with :heart: at Northeastern University
 
