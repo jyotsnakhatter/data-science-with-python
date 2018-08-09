@@ -1,0 +1,6 @@
+References:
+
+1. Used UN commodity trade statistics data for exploration
+2. Referenced from the python notebooks taught in class made my Prof. Dino
+3. Utilized WildMl.com to understand neural networks and boilerplate codes
+4. Referenced from Kaggle analysis for graphs
