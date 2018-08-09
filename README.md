@@ -36,7 +36,7 @@ The aim/acceptance criteria for the project was to successfully analyse internat
 
 ### Technologies:
 ```
-python3
+python3 
 ```
 :snake:
 
