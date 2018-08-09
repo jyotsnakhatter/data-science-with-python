@@ -30,21 +30,22 @@ Features of the table:
 | 9 | Quantity      |
 | 10 | Category      |
 
-### Motivation for project:
+### Aim for project:
  
-
+The aim/acceptance criteria for the project was to successfully analyse international assets data to give meaningful insights and also test models like- Bayesian, Feed-forward neural network, ANOVA and statistical hypothesis testing.
 
 ### Technologies:
 ```
 python3
 ```
-### USP of our project/novelty:
+:snake:
+
+
 :star2: :star2: :star2:
-
-
-### Future state benefits
-
-
+### Libraries used:
+```
+Pymc3, keras, numpy, pandas, scipy, matplotlib, seaborn, sklearn, plotly, squarify, 
+```
 
 ### Authors
 
